@@ -68,6 +68,6 @@ Feel free to reach out if you want to contribute or have suggestions!
 
 ---
 
-Thank you for checking out my BMI Calculator App! Have fun playing! 🎉
+Thank you for checking out my BMI Calculator App!
 
 <h2 align="center">✨ Happy Learning!</h2>
