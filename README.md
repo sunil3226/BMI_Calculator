@@ -60,3 +60,14 @@
   <li><strong>35 - 39.9:</strong> Obesity Class 2</li>
   <li><strong>≥ 40:</strong> Obesity Class 3</li>
 </ul>
+
+Feel free to reach out if you want to contribute or have suggestions!
+
+- **Author:** Sunil  
+- **GitHub:** [Sunil3226](https://github.com/Sunil3226)  
+
+---
+
+Thank you for checking out my BMI Calculator App! Have fun playing! 🎉
+
+<h2 align="center">✨ Happy Learning!</h2>
